@@ -28,3 +28,11 @@ Docs does?
   change of your program in time it will become easier like a second nature and
   when you'll review your commits chain (or anyone else that will review your
   commit chain) will see kind of a story that is easy to understand.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+  I think it's because the nature of the files the system's working with.
+  While git works with mostly with programmers, and programs tend to span across
+  a few interrelated files you should be able to commit changes in multiple
+  files at once if the changes are logically related.
