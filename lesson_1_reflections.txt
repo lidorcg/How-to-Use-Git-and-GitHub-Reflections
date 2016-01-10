@@ -1,0 +1,7 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    If one version works in the other doesn't then it can only because of the
+    differences between the two so seeing only the differences really cleans up
+    all the useless noise around and let's you focus only on what night be the
+    source of the problem.
