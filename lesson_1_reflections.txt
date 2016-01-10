@@ -46,3 +46,12 @@ How can you use the commands git log and git diff to view the history of files?
   their first commit and their latest commit and do git diff between the two,
   this will print every thing that has changed in those files since the first
   commit.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+  If your trying something new, you could just open up a new branch and start
+  your work there. If you're unhappy with the result you can always get back
+  to the branch you were working on earlier.
+  Plus you could try something new, get back to fix some bug in the more stable
+  version and then go back to work on your new feature.
