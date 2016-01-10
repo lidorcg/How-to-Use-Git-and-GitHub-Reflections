@@ -36,3 +36,13 @@ files in one commit, while others, like Google Docs, treat each file separately?
   While git works with mostly with programmers, and programs tend to span across
   a few interrelated files you should be able to commit changes in multiple
   files at once if the changes are logically related.
+
+How can you use the commands git log and git diff to view the history of files?
+
+  Well, log shows you all the commits on that repository and diff takes two
+  commits and shows you only the line that have changed in each file in the
+  repository.
+  If you have some files that your interested in their history you could take
+  their first commit and their latest commit and do git diff between the two,
+  this will print every thing that has changed in those files since the first
+  commit.
