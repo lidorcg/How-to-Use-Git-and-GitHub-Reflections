@@ -1,0 +1,6 @@
+What happen when you initialize a repository? Why do you need to do it?
+
+  .git folder is created in the path where the command ran.
+  all the meta-data on the project will be saved there from now on.
+  we need it to follow the changes in the directory of the project and by that
+  the project it self.
