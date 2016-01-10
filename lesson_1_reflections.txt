@@ -19,3 +19,12 @@ efficient programmer in the long term?
   then change your mind and change it again and sometimes you even return to
   your previous ideas, when that happens you want a fast way to checkout your
   previous work and continue from where you've left off.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+Docs does?
+
+  When you manually commit you can break your changes into logical story of the
+  change of your program in time it will become easier like a second nature and
+  when you'll review your commits chain (or anyone else that will review your
+  commit chain) will see kind of a story that is easy to understand.
