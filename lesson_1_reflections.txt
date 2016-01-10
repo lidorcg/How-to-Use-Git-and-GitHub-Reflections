@@ -55,3 +55,7 @@ could break something?
   to the branch you were working on earlier.
   Plus you could try something new, get back to fix some bug in the more stable
   version and then go back to work on your new feature.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+  maybe try and track the changes on this file? :)
