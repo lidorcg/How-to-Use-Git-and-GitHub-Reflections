@@ -1,7 +1,21 @@
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
-    If one version works in the other doesn't then it can only because of the
-    differences between the two so seeing only the differences really cleans up
-    all the useless noise around and let's you focus only on what night be the
-    source of the problem.
+  If one version works in the other doesn't then it can only because of the
+  differences between the two so seeing only the differences really cleans up
+  all the useless noise around and let's you focus only on what night be the
+  source of the problem.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+  You often do amount of work before testing your program, when you find out you
+  broke something you want to be able to get back to the last point when it
+  worked and try to figure out what happen the next step.
+  access to the history of the file can let you find this point quickly and
+  effortlessly.
+
+  As a person who learns over time you always make mistakes, you try one way and
+  then change your mind and change it again and sometimes you even return to
+  your previous ideas, when that happens you want a fast way to checkout your
+  previous work and continue from where you've left off.
