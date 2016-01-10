@@ -4,3 +4,11 @@ What happen when you initialize a repository? Why do you need to do it?
   all the meta-data on the project will be saved there from now on.
   we need it to follow the changes in the directory of the project and by that
   the project it self.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+  It helps you break one actual change in the working directory into smaller
+  logical changes in the form of commits, even though you may already made
+  those changes in the actual project you can still choose to commit them bits
+  by bits to the repository, by that, seeing smaller changes in your git log.
