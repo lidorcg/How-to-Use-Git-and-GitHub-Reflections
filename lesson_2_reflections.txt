@@ -12,3 +12,11 @@ What value do you think it offers?
   logical changes in the form of commits, even though you may already made
   those changes in the actual project you can still choose to commit them bits
   by bits to the repository, by that, seeing smaller changes in your git log.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+  Before committing you could run "git diff --staged" and see only the changes
+  you are about to commit. When you see those it's easier to see if all the
+  changes you are about to commit are logically related. If something is off
+  it should pop up to your eye right away.
