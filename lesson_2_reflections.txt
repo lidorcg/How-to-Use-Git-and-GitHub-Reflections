@@ -20,3 +20,12 @@ change?
   you are about to commit. When you see those it's easier to see if all the
   changes you are about to commit are logically related. If something is off
   it should pop up to your eye right away.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+  When you need to set different configurations for development and production.
+  When you work on new feature and don't want to risk breaking your stable
+  version.
+  When you work in a team on unrelated features and only want to combine your
+  code once a week, you could each work on a different branch.
