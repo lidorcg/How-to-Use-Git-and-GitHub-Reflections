@@ -29,3 +29,10 @@ organized? How would branches help?
   version.
   When you work in a team on unrelated features and only want to combine your
   code once a week, you could each work on a different branch.
+
+How do the diagrams help you visualize the branch structure?
+
+  Actually I'm not entirely sure this question is valid. Since diagrams actually
+  visualizing the branches structure for me there isn't much to answer here.
+  That been said, they mostly help in chronological understanding of what
+  happened when.
