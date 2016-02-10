@@ -36,3 +36,11 @@ How do the diagrams help you visualize the branch structure?
   visualizing the branches structure for me there isn't much to answer here.
   That been said, they mostly help in chronological understanding of what
   happened when.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+  The result is a new commit that points to both of the branches that were
+  merged.
+  When you follow the new commit stream down the diagram you will find all the
+  commits that will be in the new branch log.
