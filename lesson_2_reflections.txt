@@ -1,5 +1,4 @@
 What happen when you initialize a repository? Why do you need to do it?
-
   .git folder is created in the path where the command ran.
   all the meta-data on the project will be saved there from now on.
   we need it to follow the changes in the directory of the project and by that
@@ -7,7 +6,6 @@ What happen when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-
   It helps you break one actual change in the working directory into smaller
   logical changes in the form of commits, even though you may already made
   those changes in the actual project you can still choose to commit them bits
@@ -15,7 +13,6 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-
   Before committing you could run "git diff --staged" and see only the changes
   you are about to commit. When you see those it's easier to see if all the
   changes you are about to commit are logically related. If something is off
@@ -23,7 +20,6 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
-
   When you need to set different configurations for development and production.
   When you work on new feature and don't want to risk breaking your stable
   version.
@@ -31,7 +27,6 @@ organized? How would branches help?
   code once a week, you could each work on a different branch.
 
 How do the diagrams help you visualize the branch structure?
-
   Actually I'm not entirely sure this question is valid. Since diagrams actually
   visualizing the branches structure for me there isn't much to answer here.
   That been said, they mostly help in chronological understanding of what
@@ -39,7 +34,6 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
   The result is a new commit that points to both of the branches that were
   merged.
   When you follow the new commit stream down the diagram you will find all the
@@ -47,7 +41,6 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
-
   The pros of automating an action are obvious: time saving, life saving and all
   kind of savings...
   The cons are are that you give some control to machine and lose some control

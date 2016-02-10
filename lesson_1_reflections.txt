@@ -1,6 +1,5 @@
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
-
   If one version works in the other doesn't then it can only because of the
   differences between the two so seeing only the differences really cleans up
   all the useless noise around and let's you focus only on what night be the
@@ -8,13 +7,11 @@ was introduced?
 
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
-
   You often do amount of work before testing your program, when you find out you
   broke something you want to be able to get back to the last point when it
   worked and try to figure out what happen the next step.
   access to the history of the file can let you find this point quickly and
   effortlessly.
-
   As a person who learns over time you always make mistakes, you try one way and
   then change your mind and change it again and sometimes you even return to
   your previous ideas, when that happens you want a fast way to checkout your
@@ -23,7 +20,6 @@ efficient programmer in the long term?
 What do you think are the pros and cons of manually choosing when to create a
 commit, like you do in Git, vs having versions automatically saved, like Google
 Docs does?
-
   When you manually commit you can break your changes into logical story of the
   change of your program in time it will become easier like a second nature and
   when you'll review your commits chain (or anyone else that will review your
@@ -31,14 +27,12 @@ Docs does?
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
-
   I think it's because the nature of the files the system's working with.
   While git works with mostly with programmers, and programs tend to span across
   a few interrelated files you should be able to commit changes in multiple
   files at once if the changes are logically related.
 
 How can you use the commands git log and git diff to view the history of files?
-
   Well, log shows you all the commits on that repository and diff takes two
   commits and shows you only the line that have changed in each file in the
   repository.
@@ -49,7 +43,6 @@ How can you use the commands git log and git diff to view the history of files?
 
 How might using version control make you more confident to make changes that
 could break something?
-
   If your trying something new, you could just open up a new branch and start
   your work there. If you're unhappy with the result you can always get back
   to the branch you were working on earlier.
@@ -57,5 +50,4 @@ could break something?
   version and then go back to work on your new feature.
 
 Now that you have your workspace set up, what do you want to try using Git for?
-
   maybe try and track the changes on this file? :)
