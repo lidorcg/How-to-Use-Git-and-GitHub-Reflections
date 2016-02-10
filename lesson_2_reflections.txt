@@ -44,3 +44,11 @@ the diagram the way we do?
   merged.
   When you follow the new commit stream down the diagram you will find all the
   commits that will be in the new branch log.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+  The pros of automating an action are obvious: time saving, life saving and all
+  kind of savings...
+  The cons are are that you give some control to machine and lose some control
+  over your project, automated merge could do something you didn't intended.
