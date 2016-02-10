@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  when collaborating\sharing your work with other people or when you just want a safe copy of your work on the all mighty CLOUD!
